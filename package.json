@@ -1,6 +1,6 @@
 {
   "name": "we-quota-checker",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Check WE (te-data) Internet quota for Egyptian landlines",
   "main": "index.js",
   "scripts": {
