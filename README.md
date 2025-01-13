@@ -1,4 +1,6 @@
 # we-quota-checker
+[![npm version](https://img.shields.io/npm/v/we-quota-checker.svg)](https://npmjs.com/package/we-quota-checker)
+[![npm downloads](https://img.shields.io/npm/dm/we-quota-checker.svg)](https://npmjs.com/package/we-quota-checker)
 
 An NPM package that fetches your current quota details for WE (Telecom Egypt) ISP subscribers using their updated API. This package allows you to easily integrate WE quota checking into your Node.js applications without manual login requirements. It's perfect for monitoring usage patterns, creating automated checks, building dashboard applications, or any other scenario where you need programmatic access to your WE quota information
 
