@@ -1,0 +1,22 @@
+{
+  "name": "we-quota-checker",
+  "version": "1.0.0",
+  "description": "Check WE (te-data) Internet quota for Egyptian landlines",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "egypt",
+    "te",
+    "we",
+    "internet",
+    "quota"
+  ],
+  "author": "Yassin Bedier",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "luxon": "^3.5.0"
+  }
+}
